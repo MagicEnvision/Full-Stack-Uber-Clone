@@ -5,10 +5,85 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee30d5ac-1829-461a-bddb-4639b64d713d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/arrow-down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/arrow-up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/back-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/chat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/dollar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/eyecross.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/marker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/out.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/pin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/selected-marker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/target.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/to.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/get-started.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/no-result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/onboarding1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/onboarding2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/onboarding3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/signup-car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/splash.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(tabs)/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(tabs)/_layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(tabs)/explore.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(tabs)/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/+not-found.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/+not-found.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/SpaceMono-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/adaptive-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/adaptive-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/splash-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Collapsible.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ExternalLink.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/HapticTab.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/HelloWave.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ParallaxScrollView.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ThemedText.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ThemedView.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/__tests__/ThemedText-test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/__tests__/__snapshots__/ThemedText-test.tsx.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/IconSymbol.ios.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/IconSymbol.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/TabBarBackground.ios.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/TabBarBackground.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/Colors.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/useColorScheme.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/useColorScheme.web.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooks/useThemeColor.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +104,11 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/app/(tabs)/index.tsx" root0="SKIP_HIGHLIGHTING" />
   </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -37,28 +117,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Node.js.babel.config.js.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "js.linters.configure.manually.selectedeslint": "true",
-    "last_opened_file_path": "C:/Users/rjros/Desktop/Practice/uber-clone",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "C:\\Users\\rjros\\Desktop\\Practice\\uber-clone\\node_modules\\eslint",
-    "node.js.selected.package.standard": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\rjros\\Desktop\\Practice\\uber-clone\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "C:\\Users\\rjros\\Desktop\\Practice\\uber-clone\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.babel.config.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;js.linters.configure.manually.selectedeslint&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rjros/Desktop/Practice/uber-clone&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;C:\\Users\\rjros\\Desktop\\Practice\\uber-clone\\node_modules\\eslint&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\rjros\\Desktop\\Practice\\uber-clone\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\rjros\\Desktop\\Practice\\uber-clone\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\rjros\Desktop\Practice\uber-clone" />
@@ -87,6 +167,8 @@
       <workItem from="1734124795094" duration="2180000" />
       <workItem from="1734215391337" duration="835000" />
       <workItem from="1734443485317" duration="781000" />
+      <workItem from="1734444287489" duration="615000" />
+      <workItem from="1734495352252" duration="1305000" />
     </task>
     <servers />
   </component>
